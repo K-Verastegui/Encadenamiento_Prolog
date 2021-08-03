@@ -1,0 +1,17 @@
+﻿#include @"dlg_Encadenamiento\dlg_Encadenamiento.ph"
+
+#requires @"dlg_Encadenamiento\dlg_Encadenamiento.dlg"
+
+% privately used packages
+#include @"pfc\gui\controls\groupBox\groupBox.ph"
+#include @"pfc\gui\controls\textControl\textControl.ph"
+#include @"pfc\gui\controls\listControl\listControl.ph"
+#include @"pfc\gui\controls\editControl\editControl.ph"
+#include @"pfc\gui\controls\button\button.ph"
+#include @"pfc\gui\gui.ph"
+#include @"pfc\resourceIdentifiers.ph"
+
+% private interfaces
+% private classes
+% implementations
+#include @"dlg_Encadenamiento\dlg_Encadenamiento.pro"
